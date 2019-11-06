@@ -11,3 +11,4 @@ Download or clone this repository on your local device and run the following com
 
 ### Feature Added:
 Apply Eye blink detection for than one person simultaneously using tracking.
+You can run : python detect_blinks_sort.py
